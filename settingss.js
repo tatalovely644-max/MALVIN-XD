@@ -5,7 +5,7 @@ module.exports = {
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
   
-  OWNER_NUMBER: "263776369078", // put your phone number here
+  OWNER_NUMBER: "263716578434", // put your phone number here
   
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   
